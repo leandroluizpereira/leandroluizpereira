@@ -1,4 +1,15 @@
-### Hi there 👋
+### Modelo Cascata
+
+```mermaid
+graph LR
+a(Comunicação) -->b
+b-->c
+c-->d
+d-->e
+b(Planejamento)
+c(Modelagem)
+d(Construção)
+e(implantaçâo)
 
 <!--
 **leandroluizpereira/leandroluizpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
