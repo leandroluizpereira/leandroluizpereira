@@ -1,4 +1,6 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroluizpereira&layout=compact)](https://github.com/avani17101/github-readme-stats)
+* Eu sou um programador iniciante.
+  ```java 
+  System.out.println("Hello,world!");
+  ```
 
 
