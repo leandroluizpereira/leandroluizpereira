@@ -8,7 +8,7 @@
  |<div align=center>Languages|<div align=center>Sintax|<div align=center>level|
  |---|----|----|
   |<div align=center>Python</div>|<div align=center>easy|<div align=center>:star:|
- |<div align=center>Java|<div align=center> intermediary|<div align=center>:star:|
+ |<div align=center>Java|<div align=center> medium|<div align=center>:star:|
  |<div align=center>Dart|<div align=center>easy|<div align=center>:star:|
   ### Legend
   * basic = :star:
