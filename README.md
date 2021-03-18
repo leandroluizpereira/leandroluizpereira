@@ -3,8 +3,9 @@
   ```java 
   System.out.println("Hello,world!");
   ```
+<!--
 ## Learning about Languages 
-
+```
  |<div align=center>Languages|<div align=center>Sintax|<div align=center>level|
  |---|----|----|
   |<div align=center>Python</div>|<div align=center>easy|<div align=center>:star:|
@@ -16,4 +17,3 @@
   * advanced = :star::star::star:
  
 
-<div text-align ='center'>
