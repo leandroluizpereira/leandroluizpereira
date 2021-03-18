@@ -5,11 +5,11 @@
   ```
 ## Learning about Languages 
 
- |<div text-align ='center'>Languages|Sintax|level|
+ |<div align=center>Languages|<div align=center>Sintax|<div align=center>level|
  |---|----|----|
-  |<div text-align ='center'>Python</div>|<div text-align ='center'>easy|<div text-align ='center'>:star:|
- |<div text-align ='center'>Java| intermediary|:star:|
- |<div text-align ='center'>Dart|easy|:star:|
+  |<div align=center>Python</div>|<div align=center>easy|<div align=center>:star:|
+ |<div align=center>Java|<div align=center> intermediary|<div align=center>:star:|
+ |<div align=center>Dart|<div align=center>easy|<div align=center>:star:|
   ### Legend
   * basic = :star:
   * intermediary = :star::star:
